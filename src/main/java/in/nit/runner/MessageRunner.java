@@ -8,7 +8,9 @@ public class MessageRunner implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-System.out.println("Welcome to GitHub Ex 1");
+		System.out.println("Welcome to GitHub Ex 1");
+		System.out.println("Welcome to GitHub Ex 1");
+
 	}
 
 }
